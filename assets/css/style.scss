@@ -2,3 +2,21 @@
 ---
 
 @import "jekyll-theme-slate";
+
+#header_wrap {
+    background-image: url("../images/penrose.png");
+    background-repeat: no-repeat;
+    background-position: bottom 50% left -200px;
+    background-size: auto 200%;
+}
+
+#header_wrap .inner {
+    text-stroke: 2px black;
+}
+
+hr {
+  height: auto;
+  border: solid 1px;
+  margin-bottom: 5px;
+  background: none;
+}
