@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What's up Fellow Kids
+title: "What's up Fellow Kids"
 ---
 
 # Doot
